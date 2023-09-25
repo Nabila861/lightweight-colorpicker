@@ -54,7 +54,7 @@ $('#picker').colpick();
 [Please do not forget to replace the src with your url or hash identifier]
 
 -------------------------------------------------------------------------
-## Options and Defaults:
+ Options and Defaults:
 The plugin comes with a wide range of options for customization. 
 -------------------------------------------------------------------------
 

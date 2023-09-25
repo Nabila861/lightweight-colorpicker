@@ -50,8 +50,6 @@ $('#picker').colpick();
     });
 </script>
 ```
-
----------------------END OF CODE----------------------------------------------------------------
 [Please do not forget to replace the src with your url or hash identifier]
 
 -------------------------------------------------------------------------

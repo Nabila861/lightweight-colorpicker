@@ -2,6 +2,7 @@
 This is a lightweight and intuitive jQuery plugin, bringing a sleek Photoshop-style color picker to your web applications. It seamlessly integrates and enhances your color selection process, supporting RGB, HSB, and HEX formats. This repository houses modifications for improved user experience, streamlining color selection without any hassles.
 
 Basic Usage:
+
 1) Include jQuery:
 
 Make sure to include the latest version of jQuery in your web page.
@@ -11,8 +12,15 @@ Make sure to include the latest version of jQuery in your web page.
 2)After including jQuery, add the Colpick Color Picker scripts and styles.
 
 
-<script type="text/javascript" src="colourpicker.js" ></script>            <link rel="stylesheet" href="css/colpick.css" type="text/css"/>
+<script type="text/javascript" src="colourpicker.js" ></script>           
 
+## How to Include CSS
+
+To utilize the Colpick styles, make sure you include the `colpick.css` in your project. 
+
+```html
+<link rel="stylesheet" href="path_to_your_styles_directory/colpick.css" type="text/css"/>
+```
 
 --------------------------------------------------------------------------
 3) Initialize the Plugin:

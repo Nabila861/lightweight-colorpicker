@@ -1,22 +1,22 @@
-## lightweight-colorpicker
+# lightweight-colorpicker
 This is a lightweight and intuitive jQuery plugin, bringing a sleek Photoshop-style color picker to your web applications. It seamlessly integrates and enhances your color selection process, supporting RGB, HSB, and HEX formats. This repository houses modifications for improved user experience, streamlining color selection without any hassles.
 
-Basic Usage:
+## Basic Usage:
 
-# Include jQuery:
+## Include jQuery:
 
 Make sure to include the latest version of jQuery in your web page.
 ```html
 <script type="text/javascript" src="jqueryLibrary.js"></script>
 ```
 -----------------------------------------------------------------------------
-# After including jQuery, add the Colpick Color Picker scripts and styles.
+## After including jQuery, add the Colpick Color Picker scripts and styles.
 
 ```html
 <script type="text/javascript" src="colourpicker.js" ></script>
 ```          
 
-# How to Include CSS
+## How to Include CSS
 
 To utilize the Colpick styles, make sure you include the `colpick.css` in your project. 
 
@@ -25,11 +25,11 @@ To utilize the Colpick styles, make sure you include the `colpick.css` in your p
 ```
 
 --------------------------------------------------------------------------
-# Initialize the Plugin:
+## Initialize the Plugin:
 
 $('#picker').colpick();
 
-# Example code of an input field changing with colour (mainly for Joget DX-8 form designs):
+## Example code of an input field changing with colour (mainly for Joget DX-8 form designs):
 ```html
 <script type='text/javascript' src='#appResource.jqueryLibrary.js'></script>
 <script src="#appResource.colourpicker.js#" type="text/javascript"></script>
@@ -54,11 +54,11 @@ $('#picker').colpick();
 [Please do not forget to replace the src with your url or hash identifier]
 
 -------------------------------------------------------------------------
-# Options and Defaults:
+## Options and Defaults:
 The plugin comes with a wide range of options for customization. 
 -------------------------------------------------------------------------
 
-# Original Author and License:
+## Original Author and License:
 The original Colpick Color Picker was developed by  josedvq. Please visit https://www.jqueryscript.net/other/Lightweight-jQuery-Color-Picker-For-Web-App-Colpick-Color-Picker.html for a more detailed execution.
 
 

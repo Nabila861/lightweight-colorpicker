@@ -16,7 +16,7 @@ Make sure to include the latest version of jQuery in your web page.
 <script type="text/javascript" src="colourpicker.js" ></script>
 ```          
 
-## How to Include CSS
+# How to Include CSS
 
 To utilize the Colpick styles, make sure you include the `colpick.css` in your project. 
 

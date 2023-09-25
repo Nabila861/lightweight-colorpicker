@@ -26,9 +26,9 @@ To utilize the Colpick styles, make sure you include the `colpick.css` in your p
 
 --------------------------------------------------------------------------
 ## Initialize the Plugin:
-
+```html
 $('#picker').colpick();
-
+```
 ## Example code of an input field changing with colour (mainly for Joget DX-8 form designs):
 ```html
 <script type='text/javascript' src='#appResource.jqueryLibrary.js'></script>

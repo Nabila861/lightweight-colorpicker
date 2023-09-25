@@ -12,8 +12,9 @@ Make sure to include the latest version of jQuery in your web page.
 -----------------------------------------------------------------------------
 2)After including jQuery, add the Colpick Color Picker scripts and styles.
 
-
-<script type="text/javascript" src="colourpicker.js" ></script>           
+```html
+<script type="text/javascript" src="colourpicker.js" ></script>
+```          
 
 ## How to Include CSS
 

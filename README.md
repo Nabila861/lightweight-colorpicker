@@ -6,8 +6,9 @@ Basic Usage:
 1) Include jQuery:
 
 Make sure to include the latest version of jQuery in your web page.
+```html
 <script type="text/javascript" src="jqueryLibrary.js"></script>
-
+```
 -----------------------------------------------------------------------------
 2)After including jQuery, add the Colpick Color Picker scripts and styles.
 
@@ -28,7 +29,7 @@ To utilize the Colpick styles, make sure you include the `colpick.css` in your p
 $('#picker').colpick();
 
 4) Example code of an input field changing with colour (mainly for Joget DX-8 form designs):
-
+```html
 <script type='text/javascript' src='#appResource.jqueryLibrary.js'></script>
 <script src="#appResource.colourpicker.js#" type="text/javascript"></script>
 <link rel="stylesheet" href="#appResource.colpick.css#" type="text/css"/>
@@ -48,7 +49,7 @@ $('#picker').colpick();
         });
     });
 </script>
-
+```
 
 ---------------------END OF CODE----------------------------------------------------------------
 [Please do not forget to replace the src with your url or hash identifier]
